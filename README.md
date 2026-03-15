@@ -1,10 +1,10 @@
 # NotionClip AI — A Chrome Extension That Saves Webpages to Notion with AI Summaries
 
-AI-powered browser extension that captures any webpage, summarizes it with Google Gemini, and saves it as a beautifully structured page in your Notion database — all in one click.
+AI-powered browser extension that captures any webpage, summarizes it with Google Gemini, and saves it as a beautifully structured page in your Notion database all in one click.
 
 ## What It Does
 
-We read a lot on the internet every day — tutorials, documentation, blog posts, guides, and useful resources. But keeping track of all that information can be difficult. Links get lost in bookmarks, tabs stay open for days, and useful content becomes hard to find again later.
+We read a lot on the internet every day tutorials, documentation, blog posts, guides, and useful resources. But keeping track of all that information can be difficult. Links get lost in bookmarks, tabs stay open for days, and useful content becomes hard to find again later.
 
 **NotionClip AI** solves this. It's a browser extension that lets you save any webpage directly to a Notion database with a single click.
 
